@@ -13,3 +13,6 @@ Welcome to the Week 12 quest. You will participate in the Kaggle Titanic competi
 * Day 3: Model selection + tuning; 1–2 submissions.
 * Day 4: Ensembling + finalize; 1–2 submissions.
 * Day 5: Morning final push; afternoon scoreboard + QA.
+
+Highest score 76%:
+<img width="1464" height="732" alt="Screenshot 2025-10-17 at 22 00 19" src="https://github.com/user-attachments/assets/7cf0f0b1-7c8d-42ab-b504-555fd237ab8c" />
